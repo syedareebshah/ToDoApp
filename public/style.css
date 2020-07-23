@@ -1,0 +1,27 @@
+body{
+    padding-top: 10px;
+}
+.body{
+    text-align: center;
+    width: 300px;
+    
+    margin: 0 auto;
+    background-image: url(background.jpg);
+    height: 500px;
+  }
+.txt{
+    list-style: none;
+    color: white;
+    padding: 2px;
+    
+    
+}  
+.xyz{
+    
+    color: black;
+    background-color: rgb(145, 129, 167);
+}
+.dlt{
+    
+    background-color: rgb(228, 228, 138);
+}
